@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-11T13:33:45Z" name="Default suite" finished-at="2022-01-11T13:33:45Z" duration-ms="36">
+    <groups>
+    </groups>
+    <test started-at="2022-01-11T13:33:45Z" name="Default test" finished-at="2022-01-11T13:33:45Z" duration-ms="36">
+      <class name="package1.P2Test">
+        <test-method signature="testP2()[pri:0, instance:package1.P2Test@6743e411]" started-at="2022-01-11T13:33:45Z" name="testP2" finished-at="2022-01-11T13:33:45Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testP2 -->
+      </class> <!-- package1.P2Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
